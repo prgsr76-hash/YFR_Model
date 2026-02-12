@@ -1,5 +1,6 @@
 # YFR_Model
 Integrated Symbolic Framework for Yang-Frotscher-Richter Model
+
 Project conducted under Chemineers Society, IIT Kanpur
 
 Project Mentors - Shaurya Srivastava & Tanvi Manhas
